@@ -5,7 +5,6 @@ Sport GenAI Posts - Backend
 ## Table of Content:
 
 - [About The App](#about-the-app)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Status](#status)
